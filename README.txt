@@ -7,5 +7,5 @@ To add more colors to detect or edit the colors to detect, please refer the guid
 written in program.
 
 ---------------------------------------------------------------------------------------------
-Author: Hyeon Woo Ryou
+Author: Isaac Ryou
 Last updated: 02/17/2018
